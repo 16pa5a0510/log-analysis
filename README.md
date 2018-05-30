@@ -1,7 +1,7 @@
 # log-analysis
  project 3
 ## Introduction
-This is the solution for the Logs Analysis project in Udacity Full Stack Nanodegree course. In this, we have to execute complex queries on a large database (> 1000k rows) to extract intersting stats.
+This is the solution for the Logs Analysis project in Udacity Full Stack Nanodegree course. In this, we have to execute complex queries on a large database to extract intersting stats.
 
 The database in question is a newspaper company database where we have 3 tables; articles, authors and log.
 
